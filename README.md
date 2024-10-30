@@ -1,5 +1,5 @@
 # Kaia Hu's Personal Portfolio
-![me in yosemite](me.jpg)
+![20210820 (3)](https://github.com/user-attachments/assets/e6c66bd1-82c0-434a-bd9d-5d6b92718bd8)
 > 2021 Backpacking Trip in Yosemite
 
 ## About Me
