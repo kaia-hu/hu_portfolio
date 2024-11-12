@@ -61,7 +61,7 @@ Confusing:
 - I don't know what traditional biomass is 
 - the unit of calculation is not listed on the y-axis 
 - "substitution method" 
-- I also don't know what "terawatt hours" is
+- I also don't know what "terawatt hours" is <br>
 <ins> Who do you think is the intended audience for this? </ins> <br>
 I think this is for all people interested in climate policy and energy trends. <br>
 It's for both people with expertise to extract key ideas, but also accessible for people who have no prior knowledge to get a basic trends  <br>
