@@ -43,7 +43,7 @@ Oh I didn't even know that this is interactive. The interactive feature is nice.
 <ins> Who do you think is the intended audience for this?</ins> <br>
 Anyone curious about the topic of energy consumption. I don't think the audience is only someone who is in the energy field.<br>
 <ins>We then started a discussion about the purpose of this graph. </ins> I explained that this is a data-driven and exploratory visualization that aims at helping the reader to extract interesting findings, instead of having embedded information beforehand. The interviewee said: "That makes a lot of sense now." I then showed them the original article in which this visual was posted, they read the paragraph and indicated that using the paragraph title "How much energy does the world consume?" can make the goal clearer to the audience. "However it is possible that the reason that I was confused was that I didn't know any context before; reading the article and then see this chart makes a lot more sense", they said. </ins><br>
-<ins>Is there anything you would change or do differently? <br>
+<ins>Is there anything you would change or do differently?</ins> <br>
 Sort the stacked areas, make the sorting more meaningful. (For example, having the energy source that has been consumed the most on the bottom.) <br>
 Change the title, make it easier to understand; it has to give the audience an initial target to seek in the chart.  <br>
 ### Interview 2: LATE 20s, PhD Student in Biology, No Prior Data or Energy Experience
