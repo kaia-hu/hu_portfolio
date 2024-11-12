@@ -42,10 +42,33 @@ The title is really general yet the graph has a lot of information. I think I wi
 Oh I didn't even know that this is interactive. The interactive feature is nice. However, they still don't provide enough guidance for me to find a particular story. <br>
 <ins> Who do you think is the intended audience for this?</ins> <br>
 Anyone curious about the topic of energy consumption. I don't think the audience is only someone who is in the energy field.<br>
-<ins>We then started a discussion about the purpose of this graph. </ins> I explained that this is a data-driven and exploratory visualization that aims at helping the reader to extract interesting findings, instead of having embedded information beforehand. The interviewee said: "That makes a lot of sense now." I then showed them the original article in which this visual was posted, they read the paragraph and indicated that using the paragraph title "How much energy does the world consume?" can make the goal clearer to the audience. "However it is possible that the reason that I was confused was that I didn't know any context before; reading the article and then see this chart makes a lot more sense", they said. </ins><br>
+<ins>We then started a discussion about the purpose of this graph. </ins> I explained that this is a data-driven and exploratory visualization that aims at helping the reader to extract interesting findings, instead of having embedded information beforehand. The interviewee said: "That makes a lot of sense now." I then showed them the original article in which this visual was posted, they read the paragraph and indicated that using the paragraph title "How much energy does the world consume?" can make the goal clearer to the audience. "However it is possible that the reason that I was confused was that I didn't know any context before; reading the article and then see this chart makes a lot more sense", they said.<br>
 <ins>Is there anything you would change or do differently?</ins> <br>
 Sort the stacked areas, make the sorting more meaningful. (For example, having the energy source that has been consumed the most on the bottom.) <br>
 Change the title, make it easier to understand; it has to give the audience an initial target to seek in the chart.  <br>
 ### Interview 2: LATE 20s, PhD Student in Biology, No Prior Data or Energy Experience
-
+<ins> Can you tell me what you think this is? </ins>	 <br>
+The title is telling me that this is about the global primary energy consumption. <br>
+<ins> Can you describe to me what this is telling you?</ins> <br>
+1. Our energy consumption is increasing exponentially and it's highly dependent on carbon reserves
+2. Our energy consumption sources are getting more diverse <be>
+<ins> I then went through the article content of this chart and demonstrated the interactive functionality of this chart </ins> <br>
+<ins> Is there anything you find surprising or confusing?</ins> <br>
+Surprising:
+- fossil fuel rise and fall with administration <br>
+- based on the trend of renewables, they seem that they have a lot of space to grow  <br>
+Confusing:
+- I don't know what traditional biomass is 
+- the unit of calculation is not listed on the y-axis 
+- "substitution method" 
+- I also don't know what "terawatt hours" is
+<ins> Who do you think is the intended audience for this? </ins> <br>
+I think this is for all people interested in climate policy and energy trends. <br>
+It's for both people with expertise to extract key ideas, but also accessible for people who have no prior knowledge to get a basic trends  <br>
+<ins> Who do you think is the intended audience for this?</ins> <br>
+Anyone curious about the topic of energy consumption. I don't think the audience is only someone who is in the energy field.<br>
+<ins>Is there anything you would change or do differently?</ins> <br>
+Make the legend simpler by putting TWh in the y-axis instead of putting them for every source in the legend <br>
+<ins> What do you think of the changed color theme in this draft? </ins><br>
+I like it, it's straightforward. Maybe there are too many shades of light blue. You can look at more distinguishable colors. 
 ## Part 4: Build the solution
