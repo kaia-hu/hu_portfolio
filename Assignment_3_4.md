@@ -54,14 +54,14 @@ The title is telling me that this is about the global primary energy consumption
 2. Our energy consumption sources are getting more diverse <be>
 <ins> I then went through the article content of this chart and demonstrated the interactive functionality of this chart </ins> <br>
 <ins> Is there anything you find surprising or confusing?</ins> <br>
-Surprising:
-- fossil fuel rise and fall with administration <br>
-- based on the trend of renewables, they seem that they have a lot of space to grow  <br>
-Confusing:
-- I don't know what traditional biomass is 
-- the unit of calculation is not listed on the y-axis 
-- "substitution method" 
-- I also don't know what "terawatt hours" is <br>
+Surprising:<br>
+fossil fuel rise and fall with administration <br>
+based on the trend of renewables, they seem that they have a lot of space to grow  <br>
+Confusing:<br>
+I don't know what traditional biomass is <br>
+the unit of calculation is not listed on the y-axis <br>
+"substitution method" <br>
+I also don't know what "terawatt hours" is <br>
 <ins> Who do you think is the intended audience for this? </ins> <br>
 I think this is for all people interested in climate policy and energy trends. <br>
 It's for both people with expertise to extract key ideas, but also accessible for people who have no prior knowledge to get a basic trends  <br>
