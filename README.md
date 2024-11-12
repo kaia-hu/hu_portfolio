@@ -12,7 +12,7 @@ For this assignment, make sure you set up and link to a new page. This page is l
 [Access to the assignment 2 here](/dataviz2.md)
 
 ### Assignment 3&4: Critique by Design
-For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called critique-by-design.md.
+[Access to the assignment 3&4 here](/Assignment_3_4.md)
 
 ### Final project
 Here it might be helpful to include a high-level description of your final project. Part I Part II Part III(final-project-part-three)
