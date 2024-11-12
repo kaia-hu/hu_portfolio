@@ -50,8 +50,8 @@ Change the title, make it easier to understand; it has to give the audience an i
 <ins> Can you tell me what you think this is? </ins>	 <br>
 The title is telling me that this is about the global primary energy consumption. <br>
 <ins> Can you describe to me what this is telling you?</ins> <br>
-1. Our energy consumption is increasing exponentially and it's highly dependent on carbon reserves
-2. Our energy consumption sources are getting more diverse <be>
+Our energy consumption is increasing exponentially and it's highly dependent on carbon reserves <br>
+Our energy consumption sources are getting more diverse <br>
 <ins> I then went through the article content of this chart and demonstrated the interactive functionality of this chart </ins> <br>
 <ins> Is there anything you find surprising or confusing?</ins> <br>
 Surprising:<br>
