@@ -31,21 +31,21 @@ I think the division of the informative and emotive evaluation is really compreh
 ## Part 3: Test the solution
 ### Interview 1: Late 20s, Master's Student in Data Analytics, No Prior Energy Experience
 <ins> Can you tell me what you think this is? </ins>	
-- The title is telling me that this is about the global primary energy consumption. <br>
+The title is telling me that this is about the global primary energy consumption. <br>
 <ins> Can you describe to me what this is telling you?</ins>
-- From the title and the legend, it is telling me about the changing trend in the consumption of different energy sources (like how much is coal/gas consumed) <br>
+From the title and the legend, it is telling me about the changing trend in the consumption of different energy sources (like how much is coal/gas consumed) <br>
 <ins> Is there anything you find surprising or confusing?</ins>
-- I don't like stacked graphs, it always makes me really confused about reading individual categories' change over time.
-- Some wording in the title and subtitle is confusing, what are "primary" and "substitution"
-- The title is really general yet the graph has a lot of information. I think I will be less lost if the title provides me with a story.<br>
+I don't like stacked graphs, it always makes me really confused about reading individual categories' change over time.
+Some wording in the title and subtitle is confusing, what are "primary" and "substitution"
+The title is really general yet the graph has a lot of information. I think I will be less lost if the title provides me with a story.<br>
 <ins> (I pointed out the legend and interactive panel on the right) What do you think of the interactive features? </ins>
-- Oh I didn't even know that this is interactive. The interactive feature is nice. However, they still don't provide enough guidance for me to find a particular story. <br>
+Oh I didn't even know that this is interactive. The interactive feature is nice. However, they still don't provide enough guidance for me to find a particular story. <br>
 <ins> Who do you think is the intended audience for this?</ins>
-- Anyone curious about the topic of energy consumption. I don't think the audience is only someone who is in the energy field.<br>
+Anyone curious about the topic of energy consumption. I don't think the audience is only someone who is in the energy field.<br>
 <ins>We then started a discussion about the purpose of this graph. I explained that this is a data-driven and exploratory visualization that aims at helping the reader to extract interesting findings, instead of having embedded information beforehand. The interviewee said: "That makes a lot of sense now." I then showed them the original article in which this visual was posted, they read the paragraph and indicated that using the paragraph title "How much energy does the world consume?" can make the goal clearer to the audience. "However it is possible that the reason that I was confused was that I didn't know any context before; reading the article and then see this chart makes a lot more sense", they said. </ins><br>
 <ins>Is there anything you would change or do differently?</ins>
-- Sort the stacked areas, make the sorting more meaningful. (For example, having the energy source that has been consumed the most on the bottom.)
-- Change the title, make it easier to understand; it has to give the audience an initial target to seek in the chart. 
+Sort the stacked areas, make the sorting more meaningful. (For example, having the energy source that has been consumed the most on the bottom.)
+Change the title, make it easier to understand; it has to give the audience an initial target to seek in the chart. 
 ### Interview 2: LATE 20s, PhD Student in Biology, No Prior Data or Energy Experience
 
 ## Part 4: Build the solution
