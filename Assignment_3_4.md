@@ -64,11 +64,32 @@ the unit of calculation is not listed on the y-axis <br>
 I also don't know what "terawatt hours" is <br>
 <ins> Who do you think is the intended audience for this? </ins> <br>
 I think this is for all people interested in climate policy and energy trends. <br>
-It's for both people with expertise to extract key ideas, but also accessible for people who have no prior knowledge to get a basic trends  <br>
+It's for both people with expertise to extract key ideas, but also accessible for people who have no prior knowledge to get a basic trend  <br>
 <ins> Who do you think is the intended audience for this?</ins> <br>
 Anyone curious about the topic of energy consumption. I don't think the audience is only someone who is in the energy field.<br>
 <ins>Is there anything you would change or do differently?</ins> <br>
 Make the legend simpler by putting TWh in the y-axis instead of putting them for every source in the legend <br>
 <ins> What do you think of the changed color theme in this draft? </ins><br>
-I like it, it's straightforward. Maybe there are too many shades of light blue. You can look at more distinguishable colors. 
+I like it, it's straightforward. Maybe there are too many shades of light blue. You can look at more distinguishable colors.
+### In-class Critique
+<ins> What worked? </ins>	 <br>
+The color makes sense; the correlation between the type of energy and the color can help the audience utilize their common sense in reading the colors (grey--nonrenewable)<br>
+The stacked graph makes sense; it not only shows the total trend in energy consumption but you can also generally tell the composition in consumption. <br>
+It clearly shows that the trend started changing drastically around the 60s. <br>
+<ins>What didn't work </ins>	 <br>
+The unit is not clear <br>
+<ins>I brought up that since this is a highly exploratory data-driven chart, I couldn't tell a story from this </ins>	 <br>
+Someone brought up maybe I could add in some data on climate change to see if the change in energy consumption patterns correlates with climate change. <br>
+
 ## Part 4: Build the solution
+After getting the feedback from my reviewers, I first decided to brainstorm on the main story that I wanted to deliver through my chart. The in-class critique gave me a new idea so I found some data on global greenhouse gas emissions from 1850 to now. I overlaid this data on top of my chart, and I found the trend of both surprisingly matching each other. To make the story more clear, I decided to filter out renewable energy consumption since they only took off around 2000s and their volume is tiny relative to that of the nonrenewable energy consumption. This made the graph a lot clearer in its story on how the rise in greenhouse gas emissions is closely in step with global fossil fuel consumption. <br> 
+I then cleaned up the axes so that both axes included the measuring unit of the data. And I also modified the chart title to deliver the main story more efficiently. I also added the time scale of the data as well as the data source in the subtitle to add more credibility and details. <br>
+One thing that I wasn't able to do was adding footnotes to explain the calculation methods. Since many reviewers reflected that they didn't know what the "substitution method" meant, adding this information in the footnote can help the audience understand the chart better. However, I did remove those terms from the chart title so that there will not be immediate confusion when the reader first looks at this chart. <br>
+<div class='tableauPlaceholder' id='viz1731468719120' style='position: relative'><noscript><a href='#'><img alt='Greenhouse Gas Emissions Rising in Step with Global Fossil Fuel DemandFrom 1900 to 2020 | Source: Our World in Data  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalPrimaryEnergyConsumptionRefinedVersion&#47;RefinedVersion&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalPrimaryEnergyConsumptionRefinedVersion&#47;RefinedVersion' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalPrimaryEnergyConsumptionRefinedVersion&#47;RefinedVersion&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1731468719120');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
