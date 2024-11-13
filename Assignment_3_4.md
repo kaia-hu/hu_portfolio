@@ -1,7 +1,7 @@
 # Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 ## My critique chart: https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume
 ![Original_chart](https://github.com/user-attachments/assets/a45c1ad6-c53a-43f6-83b7-58392891eadc)
-
+I am passionate about the energy transition movement and the environmental impact of the energy industry, so I decided to review this visualization which provides a really comprehensive overview of the energy consumption trend globally. This graph does seem a bit crowded at first glance, especially in more recent years. There have been a lot more different types of energy sources in recent years, yet they are not reflected clearly on this chart. I want to make some changes to improve that. <br>
 ## Part 1: Critique the visualization (Score out of 10)
 Usefulness 8 <br>
 Completeness 6 <br>
