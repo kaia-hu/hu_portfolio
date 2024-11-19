@@ -1,4 +1,7 @@
 # Final Project: Buying Property? Here’s Why Climate Change Must Be Your Top Priority (Before It’s Too Late!)
 ## Summary
-The two hurricanes that swept through Florida last month have shaken up my view on climate change. While many scientists and international organizations have been reporting nonstop on 
-how we are falling behind on the 
+This project will tell a story of why climate change should be many American's top priority in buying a property. It will first challenge the readers' existing values and preferences on buying houses and then their notion that climate change won't impact them. In the end, it will present solutions for (worried) readers on how they can pick their next homes as well as those who are expecting potential climate change impact on their existing homes. 
+## Introduction
+The two hurricanes swept through Florida last month have shaken my view on climate change. While many scientists and international organizations have been reporting nonstop on how we are falling behind on the global agenda to keep global warming in check, witnessing the unprecedented devastating impact it now has on our lives is mindblowing. One new topic that was brought to the spotlight is the housing crisis in a world undergoing exacerbating climate change. I also found it ironic that the areas that are traditionally more attractive to house hunters, like beach properties, are on the top of the vulnerability list. Therefore, I want to use this project to tell people a story of how we should view climate change as an ongoing crisis and include it in part of our life planning. <br>
+## Story Outline
+I want to start the story by painting a beautiful and hopeful image of buying an oceanside property, using images to make the audience feel like the character. I will also use some data to show that the majority of Americans have similar preferences. 
