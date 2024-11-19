@@ -14,5 +14,5 @@ For this assignment, make sure you set up and link to a new page. This page is l
 ### Assignment 3&4: Critique by Design
 [Access to the assignment 3&4 here](/Assignment_3_4.md)
 
-### Final project
-Here it might be helpful to include a high-level description of your final project. Part I Part II Part III(final-project-part-three)
+### Final Project
+[Access to the Part 1 here](/final_project_Kaia_pt1.md)
