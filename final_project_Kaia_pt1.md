@@ -17,11 +17,22 @@ The two hurricanes swept through Florida last month have shaken my view on clima
 ![462571604_1290943655418105_3305476410942737819_n](https://github.com/user-attachments/assets/91fe6932-f44e-41fb-9a8c-80a0ab417e98)
 ### Finally, a resolution page will be created where the audience is taken to the beginning of this article and asked again about what they will pick when choosing where to live. This section will also provide more resources for audiences to look up later. 
 ## Data
-- Zillow's Market Heat Index (Used in the setup to describe the housing preferences) https://www.fastcompany.com/91185149/housing-market-shift-interactive-map-shows-where-sellers-buyers-have-more-power
-- National Movers Study (Also used in the setup) https://www.northamerican.com/migration-map
-- Heat Map: The Hottest Real Estate Markets (Also used in the setup) https://sparkrental.com/hottest-real-estate-markets/
-- NOAA Billion-Dollar Weather and Climate Disasters (Used in the explanation of the second conflict to demonstrate that we are experiencing an increasing amount of climate crisis loss; as well as in making of the disaster timeline) https://www.ncei.noaa.gov/access/billions/
-- The US Climate Vulnerability Index (Used in the Resolution section) https://map.climatevulnerabilityindex.org/map/cvi_overall/usa?mapBoundaries=Tract&mapFilter=0&reportBoundaries=Tract&geoContext=State
-- Where climate change poses the most and least risk to American homeowners; Washington Post. (Used in the Resolution Section) https://www.washingtonpost.com/climate-environment/interactive/2024/home-insurance-climate-change-housing-market/ <br>
+### Collected Data on Github https://github.com/kaia-hu/hu_portfolio/tree/0eda13917c2a449974fd301447dcdb94ebbae55d/final_proj_data
+- Zillow's Home Value Index (Used in the setup to describe the housing preferences)
+- Zillow's Market Heat Index (Used in the setup to describe the housing preferences)
+- Zillow's New Construction Sales Count
+- US Census Bureau State-to-State Migration Flows Data (Used in the setup to describe the housing trends)
+- NOAA Billion-Dollar Weather and Climate Disasters Cost Data
+- NOAA 1980-2024 Weather and Climate Disaster Event Data
+- NOAA 1980-2024 Weather and Climate Disaster Time Series Data (In total of 7 files of 7 kinds of disasters)
+### Publically Available Data
+- NRDC Flood Risk Disclosure Scorecard (https://public.tableau.com/app/profile/natural.resources.defense.council/viz/FloodRiskDisclosureLawsScorecard/Dashboard)
+- NRDC Severe Repetitive Flooding in the US Dashboard https://public.tableau.com/app/profile/natural.resources.defense.council/viz/LosingGroundSevereRepetitiveFloodingintheUSDashboard/LosingGround
+- ClimRR Data Download (Box) https://anl.app.box.com/s/hmkkgkrkzxxocfe9kpgrzk2gfc4gizp8/folder/180115675777
+- NASA U.S. Climate Risk Projections by County, 2040-2049 https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-crv-uscrpc-2040-2049-1.00
+### Map and Resources That I Will Cite in the Resolution Section
+- The US Climate Vulnerability Index (Used in the Resolution section)https://map.climatevulnerabilityindex.org/map/cvi_overall/usa?mapBoundaries=Tract&mapFilter=0&reportBoundaries=Tract&geoContext=State
+- Where climate change poses the most and least risk to American homeowners; Washington Post. (Used in the Resolution Section) https://www.washingtonpost.com/climate-environment/interactive/2024/home-insurance-climate-change-housing-market/
+<br>
 ## Method and medium
 I suggest using ArcGIS Story Maps since this project will utilize a lot of maps. There are some functionalities such as timeline that ArcGIS Story Map lacks, so I will use more trial and error on both ArcGIS Story Maps and Shorthand to figure out the best delivery medium. 
