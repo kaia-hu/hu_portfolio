@@ -35,6 +35,5 @@ The two hurricanes swept through Florida last month have shaken my view on clima
 - Where climate change poses the most and least risk to American homeowners; Washington Post. (Used in the Resolution Section) https://www.washingtonpost.com/climate-environment/interactive/2024/home-insurance-climate-change-housing-market/
 - American Communities Project; Mapping Climate Risks by County and Community (https://www.americancommunities.org/mapping-climate-risks-by-county-and-community/)
 - New York Times; Every Place Has Its Own Climate Risk. What Is It Where You Live? https://www.nytimes.com/interactive/2020/09/18/opinion/wildfire-hurricane-climate.html 
-<br>
 ## Method and medium
 I suggest using ArcGIS Story Maps since this project will utilize a lot of maps. There are some functionalities such as timeline that ArcGIS Story Map lacks, so I will use more trial and error on both ArcGIS Story Maps and Shorthand to figure out the best delivery medium. 
