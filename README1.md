@@ -1,6 +1,5 @@
 # Double the Joy: Leveraging 2-Stage Stochastic Optimization to Plan the Ultimate NYC Tour
-## Group Members: Kaia Hu, Hannah Nguyen, Megan Ty, and Jhanvi Udani
-<br>
+## Group Members: Kaia Hu, Hannah Nguyen, Megan Ty, and Jhanvi Udani <br>
 ### Executive Summary
 To assist tour group operators and travel agencies in designing tours that appeal to the
 mass market, we developed an optimization algorithm to identify the ideal combination of
@@ -29,5 +28,5 @@ and more constraints - particularly travel time, unhappy guests, and their assoc
 Backwards Induction model will likely be more suitable to address the added complexities <br>
 ### Data Dictionary
 - nyc_attractions.csv: The list of New York City tourist attractions with their correpsonding relevance to a certain tourist preference category
-- survey_final_table.csv: The survey final observation of four tourist archetypes and their preferences over different attraction categories. 
-<br> Both files should be run in the notebook as they are the main data used in this study. 
+- survey_final_table.csv: The survey final observation of four tourist archetypes and their preferences over different attraction categories. <br>
+Both files should be run in the notebook as they are the main data used in this study. 
