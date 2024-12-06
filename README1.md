@@ -27,6 +27,9 @@ itineraries within cities or across continents. As the algorithm evolves to hand
 and more constraints - particularly travel time, unhappy guests, and their associated costs - a
 Backwards Induction model will likely be more suitable to address the added complexities <br>
 ### Data Dictionary
-- nyc_attractions.csv: The list of New York City tourist attractions with their correpsonding relevance to a certain tourist preference category
-- survey_final_table.csv: The survey final observation of four tourist archetypes and their preferences over different attraction categories. <br>
-Both files should be run in the notebook as they are the main data used in this study. 
+- nyc_attractions.csv: The list of New York City tourist attractions with their corresponding relevance to a certain tourist preference category
+- survey_final_table.csv: The survey's final observation of four tourist archetypes and their preferences over different attraction categories, output from survey_analysis.ipynb <br>
+- final_optimization_code.ipynb: The major optimization code and what-if analysis. It uses both the nyc_attractions.csv and survey_final_table.csv files. 
+- survey_analysis.ipynb: The ML analysis on the survey results. It uses the survey_results.csv
+- survey_results.csv: The survey responses from Google Form Survey.
+- Tourism Preferences Survey (Google Form).pdf: The PDF of the Google Form survey as reference. 
